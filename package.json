@@ -1,7 +1,7 @@
 {
   "name": "lsc_calendar",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "simple calendar widthout style",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,8 @@
     "url": "git+ssh://git@github.com/lishuncai/lsc_calendar.git"
   },
   "keywords": [
-    "calendar"
+    "calendar",
+    "日历"
   ],
   "author": "lishuncai",
   "license": "ISC",

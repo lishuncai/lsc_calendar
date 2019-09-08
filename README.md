@@ -1,8 +1,13 @@
-# 简单日历插件 #
+## 简单日历插件 ##
+
+
+> 引入
+
+    npm install -D lsc_calendar
 
 >使用
 
-    var lsc_calendar = require('./index.js');
+    import lsc_calendar from 'lsc_calendar';
     lsc_calendar(el, {
       control: Boolean
     })
