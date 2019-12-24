@@ -3,7 +3,7 @@
 
 > 引入
 
-    npm install -D lsc_calendar
+    npm install -S lsc_calendar
 
 >使用
 
